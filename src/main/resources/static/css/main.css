@@ -174,10 +174,10 @@ button.accent {
 	font-style: normal;
 	background: orange;
 	border: 2px solid white;
+	margin-right: 10px;
 }
 
 .user-info #name {
-	margin-left: 10px;
 	color: white;
 	font-weight: 600;
 	font-size: 18px;
