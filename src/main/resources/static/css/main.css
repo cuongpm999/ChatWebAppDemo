@@ -346,6 +346,7 @@ button.accent {
 @media screen and (max-width: 480px) {
 	.chat-container {
 		height: calc(100% - 30px);
+		margin-top: 15px;
 	}
 	.username-page-container {
 		width: auto;
