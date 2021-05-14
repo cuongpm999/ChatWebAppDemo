@@ -340,10 +340,35 @@ button.accent {
 	width: 100%;
 }
 
-@media screen and (max-width: 730px) {
-}
-
 @media screen and (max-width: 480px) {
+	#chat-page .chat-message i {
+		width: 35px;
+		height: 35px;
+		font-size: 15px;
+		line-height: 35px;
+	}
+	#chat-page .chat-message span {
+		font-size: 15px;
+		font-weight: 500;
+	}
+	#chat-page .chat-message p {
+		font-size: 12px;
+	}
+	.user-info #icon-user {
+		width: 40px;
+		height: 40px;
+		font-size: 15px;
+		line-height: 40px;
+		border: 1px solid white;
+		margin-right: 5px;
+	}
+	.user-info #name {
+		font-weight: 500;
+		font-size: 15px;
+	}
+	.user-logout img {
+		width: 40px;
+	}
 	.chat-container {
 		height: calc(100% - 30px);
 		margin-top: 15px;
