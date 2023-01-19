@@ -1,6 +1,6 @@
 # Chat Web App
 
-Demo web chat nhỏ với các chức năng cơ bản
+Demo web chat nhỏ với các chức năng cơ bản.
 
 ## Kiến trúc
 - Dùng kiến trúc Layered Architecture
